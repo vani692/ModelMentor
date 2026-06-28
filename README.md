@@ -7,6 +7,8 @@ Upload • Analyze • Train • Explain
 
 A modern web application that automates the machine learning workflow through an intuitive dashboard.
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge)](https://model-mentor-tau.vercel.app/)
+
 </div>
 
 ## 📖 About
