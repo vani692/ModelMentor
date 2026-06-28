@@ -1,5 +1,5 @@
 <div align="center">
-### 🧠ModelMentor
+<h1>🧠 ModelMentor</h1> 
 
 ### Intelligent Machine Learning Dashboard
 
